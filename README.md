@@ -10,7 +10,9 @@ Pré-requisito:
 Após instalado, realizar os seguintes passos para execução:
 
 1 - Navegar até a pasta driversAPI e executar o comando npm install
+
 2 - Navegar até a pasta vehiclesAPI e executar o comando npm install
+
 3 - Navegar até a pasta gateway e executar o comando npm install
 
 Com isso todas as dependências necessárias foram instaladas.
@@ -18,8 +20,10 @@ Com isso todas as dependências necessárias foram instaladas.
 Agora vamos executar o projeto:
 
 1 - Navegar até a pasta driversAPI e executar o comando node index.js (para subir a API de drivers)
+
 2 - Navegar até a pasta vehiclesAPI e executar o comando node index.js (para subir a API de vehicles)
-2 - Navegar até a pasta gateway e executar o comando node server.js (para subir o Gateway)
+
+3 - Navegar até a pasta gateway e executar o comando node server.js (para subir o Gateway)
 
 Agora, vamos testar:
 
